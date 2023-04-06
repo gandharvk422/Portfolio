@@ -382,15 +382,15 @@ section .title::before{
     top: 0;
     background: rgb(46, 75, 129);
 }
-.skills .skills-content .right .html::before{
-    width: 60%;
+.skills .skills-content .right .c::before{
+    width: 40%;
    
 }
 .skills .skills-content .right .python::before{
     width: 80%;
    
 }
-.skills .skills-content .right .c::before{
+.skills .skills-content .right .html::before{
     width: 70%;
    
 }
