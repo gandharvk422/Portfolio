@@ -50,11 +50,11 @@ html{
     
 }
 .navbar .menu li a:hover{
-    color: rgb(66, 114, 204);
+    color: rgb(255, 255, 255);
 }
 
 .navbar .logo a{
-    color: #fff;
+    color: #ffffff;
     font-size: 35px;
     font-weight: 600;
     font-family: "Playfair Display", sans-serif;
@@ -276,6 +276,7 @@ section .title::before{
 }
 .expertises .serv-content .card:hover{
     background: rgb(46, 75, 129);
+    border-top-color: #222;
 }
 .expertises .serv-content .card:hover .box{
     transform: scale(1.05);
@@ -382,13 +383,14 @@ section .title::before{
     top: 0;
     background: rgb(46, 75, 129);
 }
+
 .skills .skills-content .right .c::before{
     width: 40%;
    
 }
 .skills .skills-content .right .python::before{
     width: 80%;
-   
+    
 }
 .skills .skills-content .right .html::before{
     width: 70%;
@@ -819,5 +821,3 @@ footer .social i{
                      
     }
 }
-
-
