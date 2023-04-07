@@ -624,40 +624,6 @@ footer .social i{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*---------------------------------------------------------------------------*/
 
 
@@ -673,8 +639,6 @@ footer .social i{
     .about .about-content .left img{
         height: 350px;
         width: 350px;
-        
-        
     }
     
 }
@@ -697,18 +661,12 @@ footer .social i{
         text-align: center;
         
     }
-    
-    
-
 }
 /*@media (max-width: 500px){
     .max-width{
         padding: 0 10px;
     }
 }*/
-
-
-
 
 
 @media (max-width: 970px){
@@ -808,9 +766,6 @@ footer .social i{
         width: 100%;
         margin-bottom: 35px;
     }
-    
-    
-    
 
 }
 
