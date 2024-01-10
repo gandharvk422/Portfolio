@@ -80,11 +80,7 @@ html{
     color: rgb(255, 255, 255);
     min-height: 500px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
-
-    
 }
 .home .home-content .typing{
     font-weight: 600;
