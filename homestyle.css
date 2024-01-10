@@ -74,7 +74,8 @@ html{
 
 .home{
     display: flex;
-    background: url("Portfolio Website Background Image.jpg") no-repeat center;
+    background: url("Background.jpg") no-repeat center;
+    opacity: 0.89;
     height: 100vh;
     color: rgb(255, 255, 255);
     min-height: 500px;
